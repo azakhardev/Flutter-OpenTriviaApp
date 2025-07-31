@@ -22,4 +22,4 @@ Na hlavní stránce aplikace je možné nastavit parametry hry (např. obtížno
 
 - **Jazyk**: Dart
 - **Framework**: Flutter
-- **API**: [Trivia API](https://the-trivia-api.com/)
+- **API**: [Trivia API](https://opentdb.com/api_config.php)
